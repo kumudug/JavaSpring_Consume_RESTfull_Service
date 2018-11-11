@@ -2,4 +2,4 @@
 
 * Project generated using spring initalizer
 * https://start.spring.io/
- * ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+ * ![Spring Initializer](https://github.com/kumudug/JavaSpring_Consume_RESTfull_Service/blob/master/SpringInitializr.jpg)
