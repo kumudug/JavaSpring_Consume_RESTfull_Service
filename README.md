@@ -23,5 +23,5 @@
 
 ## Test the service
 
-* Now that the service is up, visit 
- 1. _http://localhost:8888/greeting_
+* You should see output like below
+ `Quote{type='success', value=Value{id=11, quote='I have two hours today to build an app from scratch. @springboot to the rescue!'}}`
